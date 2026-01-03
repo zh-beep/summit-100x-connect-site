@@ -42,6 +42,11 @@ const participants: LinkedInProfile[] = [
     handle: 'hassanchagani',
     url: 'https://www.linkedin.com/in/hassanchagani/',
   },
+  {
+    name: 'Shehmir Rangwala',
+    handle: 'shehmirr',
+    url: 'https://shehmirr.github.io/portfolio/',
+  },
 ]
 
 const blogPost = {
